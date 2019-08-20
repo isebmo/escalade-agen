@@ -1,4 +1,4 @@
-baseURL = "http://escalade-agen.fr/"
+baseURL = "https://escalade-agen.netlify.com/"
 languageCode = "fr-FR"
 DefaultContentLanguage = "fr"
 title = "Le Mur : Escalade Agen"
