@@ -1,0 +1,15 @@
+enable : true
+heading : Notre
+headingSpan : Activité
+aboutItem : 
+- icon : fas fa-mountain
+  title : Le mur
+  content : Nous vous proposons un mur d'escalde indoor avec les meilleures prises du moment et ouvert par des professionnels.
+
+- icon : fas fa-beer
+  title : Le refuge
+  content : Le refuge permet de vous désaltérer et surtout de vous reposer. Profitez du moment inspirez vous des autres grimpeurs en vous rafraichissant.
+
+- icon : fas fa-child
+  title : Un lieu de vie
+  content : L'espace est ouvert à toutes et à tous du plus jeune au plus expérimenté, venez en famille c'est d'autant plus drôle.

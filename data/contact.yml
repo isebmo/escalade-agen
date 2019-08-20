@@ -1,0 +1,18 @@
+enable : true
+heading : Restons en
+headingSpan : Contact
+title : Pour nous contacter
+content : N'hésitez pas à utiliser le formulaire de contact si vous avez des questions sur notre activité.
+enable_maps : true
+mapLatitude : 44.203265
+mapLongitude: 0.616041
+contactDetails :
+  - icon : tf-map-pin
+    info : "Agen, locaux à suivre"
+    
+  - icon : tf-ion-ios-telephone-outline
+    info : "Tél: 0679197562"
+    
+  - icon : tf-ion-ios-email-outline
+    info : "Email: contact@escalade-agen.fr"
+    

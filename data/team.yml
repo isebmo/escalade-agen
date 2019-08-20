@@ -1,0 +1,28 @@
+enable : true
+heading : Notre
+headingSpan : Équipe
+teamMember :
+  - image : images/team/team-1.jpg
+    name : Olivier Fredon
+    designation : Dirigeant
+    description : Tant qu'il y a des prises, il est heureux, au sol il se sent nerveux, venez le taquiner sur les voix les plus dures.
+    socialIcon :
+      - icon : tf-ion-social-facebook
+        url : "#"
+      - icon : tf-ion-social-twitter
+        url : "#"
+      - icon : tf-ion-social-linkedin
+        url : "#"
+      - icon : tf-ion-social-dribbble-outline
+        url : "#"
+      
+  - image : images/team/L1010027.jpg
+    name : Sébastien Mouret
+    designation : Dirigeant
+    description : Rien ne le destinait à l'escalade, mais comme Obélix et sa potion magique, il est tombé dedans grace à Olivier depuis il ne peut plus dissocier biére et escalade ou escalade et bière ?
+    socialIcon :
+      - icon : tf-ion-social-twitter
+        url : "https://twitter.com/SebMouret"
+      - icon : tf-ion-social-linkedin
+        url : "https://www.linkedin.com/in/sébastien-mouret-0477b6113"
+      

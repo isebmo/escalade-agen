@@ -1,0 +1,13 @@
+enable : true
+image : images/about/about-business-man.jpg
+title : La 1ère salle d’escalade du Lot-et-Garonne.
+description : Pourquoi une salle d’escalade à Agen pays du rugby ? Car ces deux sports partagent les mêmes valeurs de courage, d’abnégation et de solidarité. L’escalade permet de partager ces valeurs avec vos proches, et ce sans limite d’âge. Oui l’escalade se pratique dès 3 ans, c’est un sport multi générationnels et mixte. Oui, amis parents vous allez voir que vos bambins sont extrêmement doués pour ce sport à tel point qu’ils risquent vite de vous dépasser !
+description2 : Vous êtes seul ou bien vous voulez challenger vos amis ? La salle de bloc ne nécessite aucun matériel, vous venez, vous grimpez, et vous vous reposez avec un bon jus bio. Vous avez des douleurs musculaires ? Notre pôle santé s’occupera de les soigner ; nos amis d’Océan Altitude vous proposeront même des séances de remise en forme, voire de la préparation physique de haut niveau pour que vous puissiez à nouveau grimper.
+aboutItem : 
+  - icon : fas fa-medal
+    title : Un mur homologué pour les compétition
+    content : Le mur sera homologué pour accueillir des compétitions, cela veut dire que vous pourrez sérieusement vous entrainer.
+    
+  - icon : fas fa-cocktail
+    title : Le refuge
+    content : Parce que la convivialité est important et que nous voulons faire de cet endroit un endroit le plus agréable nous vous proposons de quoi vous rafraichir et casser la croûte.

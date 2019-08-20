@@ -1,27 +1,122 @@
-baseURL = "https://escalade-agen.fr/"
-languageCode = "fr"
-title = "Escalade Agen"
+baseURL = "http://escalade-agen.fr/"
+languageCode = "fr-FR"
+DefaultContentLanguage = "fr"
+title = "Le Mur : Escalade Agen"
 theme = "meghna"
-SectionPagesMenu = "main"
-googleAnalytics = "UA-55779894-1"
-description = "Site d'actualité de l'escalade dans l'agenais."
-preserveTaxonomyNames = true
-disqusShortname = "escaladeAgen"
-[permalinks]
-  post = "/:title/"
+summaryLength = 10
 
+[taxonomies]
+  author = "author"
+  category = "categories"
+  tag = "tags"
+
+# Menu
+[menu]
+    [[menu.nav]]
+    name = "À Propos"
+    URL = "about"
+    weight = 2
+
+    [[menu.nav]]
+    name = "L'équipe"
+    URL = "our-team"
+    weight = 5
+
+    [[menu.nav]]
+    name = "Actualités"
+    URL = "blog"
+    weight = 7
+
+    [[menu.nav]]
+    name = "Contact"
+    URL = "contact-us"
+    weight = 8
+
+# Site params
 [params]
-  favicon = ""
-  facebook = ""
-  twitter = "https://twitter.com/sebmouret"
-  instagram = ""
-  youtube = ""
-  github = ""
-  gitlab = ""
-  linkedin = ""
-  mastodon = ""
-  # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
-  background_color_class = "bg-black"
-  recent_posts_number = 6
-  body_classes = "font"
+home= "Home"
+logo = "images/logo.png"
+gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
+# Meta data
+description = "Site de référence de l'escalade à Agen"
+author = "Themefisher"
+# Google Analitycs
+googleAnalitycsID = "Your ID"
+custom_css = ["css/custom.css"]
 
+    # Banner Section
+    [params.banner]
+    enable = true
+    bgImage = "images/slider/hero-area.jpg"
+    icon = ""
+    heading = "Parce que l'escalade est notre passion"
+    content= "Venez nous rejoindre et vous amuser dans nos locaux, notre mur d'escalade indoor est disponible pour toutes et tous ! Tout le monde peut s'amuser il y en a pour tous les niveaux."
+    btn = true
+    btnText="Venez nombreux"
+    btnURL="#contact-us"
+
+    # call to action
+    [params.cta]
+    enable = true
+    title = "Nous aimons travailler ensemble"
+    content = "Nous souhaitons proposer une expérience unique à travers nos produits et nos évènements, si vous souhaitez participer à notre aventure, vous vendez des produits dont vous êtes fiers, vous voulez partager un évèvement dans nos locaux ? Contactez nous !"
+    btnURL = "#contact-us"
+    btnText = "Je participe aussi"
+
+    # counter
+    [params.counter]
+    enable = false
+    bgImage = "images/backgrounds/bg-1.jpg"
+        [[params.counter.counterItem]]
+        title = "Happy Clients"
+        icon = "tf-ion-android-happy"
+        count = "320"
+
+        [[params.counter.counterItem]]
+        title = "Projects completed"
+        icon = "tf-ion-archive"
+        count = "565"
+
+        [[params.counter.counterItem]]
+        title = "Positive feedback"
+        icon = "tf-ion-thumbsup"
+        count = "95"
+
+        [[params.counter.counterItem]]
+        title = "Cups of Coffee"
+        icon = "tf-ion-coffee"
+        count = "2500"
+
+    # footer
+    [params.footer]
+        copyright = "Themefisher Team"
+        copyrightURL = "http://www.themefisher.com"
+
+        # social Icons
+        [[params.footer.socialIcon]]
+        icon = "tf-ion-social-facebook"
+        url = "#"
+
+        [[params.footer.socialIcon]]
+        icon = "tf-ion-social-twitter"
+        url = "#"
+
+        [[params.footer.socialIcon]]
+        icon = "tf-ion-social-google-outline"
+        url = "#"
+
+        [[params.footer.socialIcon]]
+        icon = "tf-ion-social-youtube"
+        url = "#"
+
+        [[params.footer.socialIcon]]
+        icon = "tf-ion-social-linkedin"
+        url = "#"
+
+        [[params.footer.socialIcon]]
+        icon = "tf-ion-social-dribbble-outline"
+        url = "#"
+
+        [[params.footer.socialIcon]]
+        icon = "tf-ion-social-pinterest-outline"
+        url = "#"
