@@ -47,7 +47,7 @@ custom_css = ["css/custom.css"]
     # Banner Section
     [params.banner]
     enable = true
-    bgImage = "images/slider/le-mur.png"
+    bgImage = "images/slider/faites-le-mur.jpg"
     icon = ""
     heading = "Parce que l'escalade est notre passion"
     content= "Venez nous rejoindre et vous amuser dans nos locaux, notre mur d'escalade indoor est disponible pour toutes et tous ! Tout le monde peut s'amuser il y en a pour tous les niveaux."

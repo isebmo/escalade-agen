@@ -6,10 +6,10 @@ description2 : Oui, l’escalade est une activité sportive qui s’adresse à u
 description3 : En solo ou en groupe, la salle de bloc ne nécessite aucun matériel. Venez avec le sourire, grimpez en toute sécurité, serrez les prises tant que vous le pouvez puis lâchez prise au bar autour d’un bon jus bio.
 description4 : Surtout, n’oubliez pas... face à un mur, les seules limites que vous rencontrerez seront celles que vous vous serez fixées en vue d’atteindre le sommet !
 aboutItem : 
-  - icon : fas fa-medal
-    title : Le mur, serrez les prises
-    content : Le mur sera homologué pour accueillir des compétitions, cela veut dire que vous pourrez sérieusement vous entrainer.
+  - picto : images/about/le-mur.png
+    title : Le mur
+    content : Le mur sera homologué pour accueillir des compétitions, cela veut dire que vous pourrez sérieusement vous entrainer. Un futur athlète pour les JO sommeille peut-être en vous ?
     
-  - icon : fas fa-cocktail
-    title : Le refuge, lâchez prise
-    content : Parce que la convivialité est important et que nous voulons faire de cet endroit un endroit le plus agréable nous vous proposons de quoi vous rafraichir et casser la croûte.
+  - picto : images/about/le-refuge.png
+    title : Le refuge
+    content : Parce que la convivialité est important et que nous voulons faire de cet endroit un lieux toujours plus agréable. Nous vous proposons de quoi vous rafraichir et casser la croûtepour vous restaurer.
