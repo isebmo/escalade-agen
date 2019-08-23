@@ -69,7 +69,7 @@ figure {
 }
 
 a {
-  color: #fff;
+  color: #E6CB8A;
   transition: all .3s ease-in 0s;
 }
 
@@ -86,7 +86,7 @@ a:hover {
 
 a:focus,
 a:hover {
-  color: #6CB670;
+  color: #E4D8B8;
 }
 
 .kill-margin-bottom {
@@ -166,7 +166,7 @@ a:hover {
 }
 
 .color {
-  color: #6CB670;
+  color: #E4D8B8;
 }
 
 .sub-title {
@@ -232,7 +232,7 @@ a:hover {
 
 a:focus,
 a:hover {
-  color: #E6CB8A;
+  color: #E4D8B8;
 }
 
 .btn-main {
@@ -245,7 +245,7 @@ a:hover {
 }
 
 .btn-main:hover {
-  background: #2c9091;
+  background: #E4D8B8;
   color: #fff;
 }
 
@@ -904,7 +904,7 @@ a:hover {
 }
 
 .success {
-  background-color: #6cb670;
+  background-color: #E4D8B8;
   border-radius: 4px;
   color: #fff;
   display: none;
@@ -1373,26 +1373,20 @@ a:hover {
 
 .post-block {
   background-color: #292F36;
-  margin-bottom: 10px;
+  margin-bottom: 1em;
 }
 
 .post-block .content {
-  padding: 20px;
+  padding: 2em;
 }
 
-.post-block .content h3 {
-  margin: 0 0 6px;
-  font-size: 20px;
-  line-height: 1.5;
+.post-block .content h3,
+.note .excerpt h3 {
+  font-size: 1.4em;
 }
 
 .note .media-wrapper {
   border-bottom: 1px solid #4e595f;
-}
-
-.note .excerpt h3 {
-  font-size: 20px;
-  line-height: 1.5;
 }
 
 .all-post {
@@ -1402,6 +1396,32 @@ a:hover {
 /*=================================================================
   Single Blog Page
 ==================================================================*/
+
+
+.single-post h1 {
+  font-size: 3.5rem;
+  color: #fff;
+}
+
+.post-single-content h2,
+.post-single-content h3 {
+  font-family: 'Open Sans Condensed', sans;
+}
+
+.post-single-content h2 {
+  color: #E6CB8A;
+}
+
+.post-single-content h3 {
+  color: #fff;
+}
+
+.social-share p {
+  border-top: 1px solid #E6CB8A;
+  color: #E6CB8A;
+  padding-top: 1em;
+}
+
 #blog-banner {
   padding-bottom: 100px;
   padding-top: 150px;
@@ -1758,9 +1778,9 @@ input#e-mail, #hidden_iframe {
 }
 
 .twitter-bird span {
-  border: 2px solid #6cb670;
+  border: 2px solid #E4D8B8;
   border-radius: 50px;
-  color: #6cb670;
+  color: #E4D8B8;
   display: inline-block;
   margin-bottom: 50px;
   height: 90px;
@@ -1776,7 +1796,7 @@ input#e-mail, #hidden_iframe {
 }
 
 .tweet a {
-  color: #6cb670;
+  color: #E4D8B8;
 }
 
 /*=================================================================
@@ -1788,9 +1808,9 @@ input#e-mail, #hidden_iframe {
 }
 
 .blog-icon {
-  border: 1px solid #6CB670;
+  border: 1px solid #E4D8B8;
   border-radius: 50%;
-  color: #6CB670;
+  color: #E4D8B8;
   display: inline-block;
   padding: 16px 20px;
 }
@@ -1876,7 +1896,7 @@ input#e-mail, #hidden_iframe {
 }
 
 .post-meta a:hover {
-  color: #6CB670;
+  color: #E4D8B8;
 }
 
 .post-excerpt .more {
@@ -1890,7 +1910,7 @@ input#e-mail, #hidden_iframe {
 }
 
 .post-excerpt .more a:hover {
-  background-color: #6CB670;
+  background-color: #E4D8B8;
   color: #fff;
 }
 
@@ -1938,9 +1958,9 @@ aside.widget {
 }
 
 .tab-post-nav li.active a {
-  border-top: 3px solid #6cb670;
+  border-top: 3px solid #E4D8B8;
   background-color: #2F383D;
-  color: #6CB670;
+  color: #E4D8B8;
 }
 
 .tab-pane.active .clearfix:first-child {
@@ -1958,7 +1978,7 @@ aside.widget {
 }
 
 .tab-excerpt h4 a:hover {
-  color: #6cb670;
+  color: #E4D8B8;
 }
 
 .tab-post-nav li a {
@@ -1976,7 +1996,7 @@ aside.widget {
 
 .categories>li:hover a {
   padding-left: 10px;
-  color: #6CB670;
+  color: #E4D8B8;
 }
 
 .categories>li:last-child {
@@ -1997,7 +2017,7 @@ aside.widget {
 }
 
 .widget-content .tag:hover {
-  background-color: #6CB670;
+  background-color: #E4D8B8;
   color: #fff;
 }
 
@@ -2033,7 +2053,7 @@ aside.widget {
 
 .post-pagination ul li a:hover,
 .post-pagination ul li.active a {
-  background-color: #6CB670;
+  background-color: #E4D8B8;
   color: #fff;
 }
 
@@ -2047,7 +2067,7 @@ aside.widget {
 }
 
 blockquote {
-  border-left: 5px solid #6cb670;
+  border-left: 5px solid #E4D8B8;
   font-style: italic;
   line-height: 22px;
   margin: 20px 0;
@@ -2061,7 +2081,7 @@ blockquote {
 }
 
 .next-prev a:hover {
-  color: #6CB670;
+  color: #E4D8B8;
 }
 
 .prev-post i {
@@ -2133,7 +2153,7 @@ blockquote {
 
 .author-comment cite a:hover,
 .replay:hover {
-  color: #6CB670;
+  color: #E4D8B8;
   text-decoration: underline;
 }
 
@@ -2159,7 +2179,7 @@ blockquote {
 }
 
 #comment-form .form-control:hover {
-  border-color: #6CB670;
+  border-color: #E4D8B8;
 }
 
 .form-group:last-child,
