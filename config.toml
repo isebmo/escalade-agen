@@ -34,18 +34,19 @@ summaryLength = 10
 
 # Site params
 [params]
-home= "Home"
-logo = "images/logo.png"
-gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
-# Meta data
-description = "1ère salle d'escalade de bloc à Agen et dans le Lot-et-Garonne. Votre site de référence pour la grimpe. Faites le mur : L'escalade pour tous, l'escalade plaisir."
-author = "Escalade Agen"
-# Google Analitycs
-googleAnalitycsID = "UA-146209223-1"
-custom_css = ["css/custom.css"]
+    home= "Home"
+    logo = "images/logo.png"
+    gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
+    # Meta data
+    description = "1ère salle d'escalade de bloc à Agen et dans le Lot-et-Garonne. Votre site de référence pour la grimpe. Faites le mur : L'escalade pour tous, l'escalade plaisir."
+    author = "Escalade Agen"
+    twitter = "AgenEscalade"
+    # Google Analitycs
+    googleAnalitycsID = "UA-146209223-1"
+    custom_css = ["css/custom.css"]
 
-    # Banner Section
-    [params.banner]
+# Banner Section
+[params.banner]
     enable = true
     bgImage = "images/slider/faites-le-mur.jpg"
     icon = ""
@@ -55,68 +56,52 @@ custom_css = ["css/custom.css"]
     btnText="Être informé de l'ouverture prochaine"
     btnURL="https://forms.gle/PbCTKbMCc1h6umNi9"
 
-    # call to action
-    [params.cta]
+# call to action
+[params.cta]
     enable = true
     title = "Nous aimons travailler ensemble"
     content = "Nous souhaitons proposer une expérience unique à travers nos produits et nos événements, si vous souhaitez participer à notre aventure, vous vendez des produits dont vous êtes fiers, vous voulez partager un événement dans nos locaux ? Contactez-nous !"
     btnURL = "https://forms.gle/PbCTKbMCc1h6umNi9"
     btnText = "Je participe aussi"
 
-    # counter
-    [params.counter]
+# counter
+[params.counter]
     enable = false
     bgImage = "images/backgrounds/bg-1.png"
-        [[params.counter.counterItem]]
+    [[params.counter.counterItem]]
         title = "Happy Clients"
         icon = "tf-ion-android-happy"
         count = "320"
 
-        [[params.counter.counterItem]]
+    [[params.counter.counterItem]]
         title = "Projects completed"
         icon = "tf-ion-archive"
         count = "565"
 
-        [[params.counter.counterItem]]
+    [[params.counter.counterItem]]
         title = "Positive feedback"
         icon = "tf-ion-thumbsup"
         count = "95"
 
-        [[params.counter.counterItem]]
+    [[params.counter.counterItem]]
         title = "Cups of Coffee"
         icon = "tf-ion-coffee"
         count = "2500"
 
-    # footer
-    [params.footer]
-        #copyright = "Themefisher Team"
-        #copyrightURL = "http://www.themefisher.com"
+# footer
+[params.footer]
+    #copyright = "Themefisher Team"
+    #copyrightURL = "http://www.themefisher.com"
 
-        # social Icons
-        [[params.footer.socialIcon]]
+    # social Icons
+    [[params.footer.socialIcon]]
         icon = "tf-ion-social-facebook"
         url = "https://fb.me/AgenEscalade"
 
-        [[params.footer.socialIcon]]
+    [[params.footer.socialIcon]]
         icon = "tf-ion-social-twitter"
         url = "https://twitter.com/AgenEscalade"
 
-        ##[[params.footer.socialIcon]]
-        ##icon = "tf-ion-social-google-outline"
-        ##url = "#"
-
-        ##[[params.footer.socialIcon]]
-        ##icon = "tf-ion-social-youtube"
-        ##url = "#"
-
-        ##[[params.footer.socialIcon]]
+    ##[[params.footer.socialIcon]]
         ##icon = "tf-ion-social-linkedin"
-        ##url = "#"
-
-        ##[[params.footer.socialIcon]]
-        ##icon = "tf-ion-social-dribbble-outline"
-        ##url = "#"
-
-        ##[[params.footer.socialIcon]]
-        ##icon = "tf-ion-social-pinterest-outline"
         ##url = "#"
