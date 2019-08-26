@@ -53,14 +53,14 @@ custom_css = ["css/custom.css"]
     content= "L'escalade pour tous, l'escalade plaisir."
     btn = true
     btnText="Venez nombreux"
-    btnURL="#contact-us"
+    btnURL="https://forms.gle/PbCTKbMCc1h6umNi9"
 
     # call to action
     [params.cta]
     enable = true
     title = "Nous aimons travailler ensemble"
     content = "Nous souhaitons proposer une expérience unique à travers nos produits et nos évènements, si vous souhaitez participer à notre aventure, vous vendez des produits dont vous êtes fiers, vous voulez partager un évèvement dans nos locaux ? Contactez nous !"
-    btnURL = "#contact-us"
+    btnURL = "https://forms.gle/PbCTKbMCc1h6umNi9"
     btnText = "Je participe aussi"
 
     # counter
