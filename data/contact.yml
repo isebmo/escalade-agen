@@ -2,7 +2,7 @@ enable : true
 heading : Restons en
 headingSpan : contact
 title : Pour nous joindre
-content : N'hésitez pas à utiliser le formulaire afin de nous faire part de vos questions, remaques ou suggestions.
+content : N'hésitez pas à utiliser le formulaire afin de nous faire part de vos questions, remarques ou suggestions.
 enable_maps : true
 mapLatitude : 44.203265
 mapLongitude: 0.616041
