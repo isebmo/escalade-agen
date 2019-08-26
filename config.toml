@@ -39,7 +39,7 @@ logo = "images/logo.png"
 gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
 # Meta data
 description = "1ère salle d'escalade de bloc à Agen et dans le Lot-et-Garonne. Votre site de référence pour la grimpe. Faites le mur : L'escalade pour tous, l'escalade plaisir."
-author = "A'bloc"
+author = "Escalade Agen"
 # Google Analitycs
 googleAnalitycsID = "UA-146209223-1"
 custom_css = ["css/custom.css"]

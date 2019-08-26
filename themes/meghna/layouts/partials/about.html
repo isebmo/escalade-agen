@@ -54,10 +54,8 @@
                 <div class="col-lg-6">
                     <div class="content-block">
                         <div class="media">
-                            <div class="align-self-start mr-3">
-                                {{with .picto}} <img src="{{ . }}" alt="" /> {{ end }}
-                            </div>
                             <div class="media-body">
+                                <div class="text-center">{{with .picto}} <img src="{{ . }}" alt="" /> {{ end }}</div>
                                 {{with .title}} <h4 class="media-heading">{{ . }}</h4>{{ end }}
                                 {{ with .content}} <p>{{ . }}</p> {{ end }}
                             </div>

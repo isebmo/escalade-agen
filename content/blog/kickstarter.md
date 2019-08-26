@@ -2,6 +2,7 @@
 title: "Vous avez toujours rêvé d’une salle d’escalade sur Agen ?"
 date: 2019-08-20
 description: "Nous lançons un Kickstarter pour que le rêve devienne réalité"
+##author : "Escalade Agen"
 ---
 
 ## Cette envie est sur le point de se concrétiser, aussi nous avons besoin de vous !
