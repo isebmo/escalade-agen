@@ -2,6 +2,7 @@
 title: "Salle d’escalade à Agen : lancement d’une campagne de crowdfunding"
 description: "Salle d’escalade à Agen : lancement d’une campagne de crowdfunding"
 date: 2019-08-26T11:10:51+02:00
+draft: true
 ---
 
 ## En vue d’accompagner l’ouverture prochaine de la toute première salle d’escalade dans l’agenais, deux jeunes porteurs de projet lancent un appel à la générosité du grand public via une campagne de financement participatif hébergée par la plateforme KickStarter.

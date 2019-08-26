@@ -52,7 +52,7 @@ custom_css = ["css/custom.css"]
     heading = "Faites le mur"
     content= "L'escalade pour tous, l'escalade plaisir."
     btn = true
-    btnText="Venez nombreux"
+    btnText="Être informé de l'ouverture prochaine"
     btnURL="https://forms.gle/PbCTKbMCc1h6umNi9"
 
     # call to action
