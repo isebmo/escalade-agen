@@ -1,7 +1,7 @@
 baseURL = "https://escalade-agen.netlify.com/"
 languageCode = "fr-FR"
 DefaultContentLanguage = "fr"
-title = "Le Mur : Escalade Agen"
+title = "Faites le mur"
 theme = "meghna"
 summaryLength = 10
 
@@ -15,17 +15,17 @@ summaryLength = 10
     [[menu.nav]]
     name = "À Propos"
     URL = "about"
-    weight = 2
+    weight = 1
 
     [[menu.nav]]
     name = "L'équipe"
     URL = "our-team"
-    weight = 5
+    weight = 2
 
     [[menu.nav]]
     name = "Actualités"
     URL = "blog"
-    weight = 7
+    weight = 3
 
     [[menu.nav]]
     name = "Contact"
@@ -38,19 +38,19 @@ home= "Home"
 logo = "images/logo.png"
 gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
 # Meta data
-description = "Site de référence de l'escalade à Agen"
-author = "Themefisher"
+description = "1ère salle d'escalade de bloc à Agen et dans le Lot-et-Garonne. Votre site de référence pour la grimpe. Faites le mur : L'escalade pour tous, l'escalade plaisir."
+author = "Escalade Agen"
 # Google Analitycs
-googleAnalitycsID = "Your ID"
+googleAnalitycsID = "UA-146209223-1"
 custom_css = ["css/custom.css"]
 
     # Banner Section
     [params.banner]
     enable = true
-    bgImage = "images/slider/hero-area.jpg"
+    bgImage = "images/slider/faites-le-mur.jpg"
     icon = ""
-    heading = "Parce que l'escalade est notre passion"
-    content= "Venez nous rejoindre et vous amuser dans nos locaux, notre mur d'escalade indoor est disponible pour toutes et tous ! Tout le monde peut s'amuser il y en a pour tous les niveaux."
+    heading = "Faites le mur"
+    content= "L'escalade pour tous, l'escalade plaisir."
     btn = true
     btnText="Venez nombreux"
     btnURL="#contact-us"
@@ -66,7 +66,7 @@ custom_css = ["css/custom.css"]
     # counter
     [params.counter]
     enable = false
-    bgImage = "images/backgrounds/bg-1.jpg"
+    bgImage = "images/backgrounds/bg-1.png"
         [[params.counter.counterItem]]
         title = "Happy Clients"
         icon = "tf-ion-android-happy"
@@ -89,34 +89,34 @@ custom_css = ["css/custom.css"]
 
     # footer
     [params.footer]
-        copyright = "Themefisher Team"
-        copyrightURL = "http://www.themefisher.com"
+        #copyright = "Themefisher Team"
+        #copyrightURL = "http://www.themefisher.com"
 
         # social Icons
         [[params.footer.socialIcon]]
         icon = "tf-ion-social-facebook"
-        url = "#"
+        url = "https://fb.me/AgenEscalade"
 
         [[params.footer.socialIcon]]
         icon = "tf-ion-social-twitter"
-        url = "#"
+        url = "https://twitter.com/AgenEscalade"
 
-        [[params.footer.socialIcon]]
-        icon = "tf-ion-social-google-outline"
-        url = "#"
+        ##[[params.footer.socialIcon]]
+        ##icon = "tf-ion-social-google-outline"
+        ##url = "#"
 
-        [[params.footer.socialIcon]]
-        icon = "tf-ion-social-youtube"
-        url = "#"
+        ##[[params.footer.socialIcon]]
+        ##icon = "tf-ion-social-youtube"
+        ##url = "#"
 
-        [[params.footer.socialIcon]]
-        icon = "tf-ion-social-linkedin"
-        url = "#"
+        ##[[params.footer.socialIcon]]
+        ##icon = "tf-ion-social-linkedin"
+        ##url = "#"
 
-        [[params.footer.socialIcon]]
-        icon = "tf-ion-social-dribbble-outline"
-        url = "#"
+        ##[[params.footer.socialIcon]]
+        ##icon = "tf-ion-social-dribbble-outline"
+        ##url = "#"
 
-        [[params.footer.socialIcon]]
-        icon = "tf-ion-social-pinterest-outline"
-        url = "#"
+        ##[[params.footer.socialIcon]]
+        ##icon = "tf-ion-social-pinterest-outline"
+        ##url = "#"

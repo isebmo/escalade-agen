@@ -14,7 +14,7 @@
 
             {{ range .Site.Data.team.teamMember}}
             {{"<!-- team member -->" | safeHTML}}
-            <div class="col-lg-3 col-md-6 col-12 wow fadeInDown" data-wow-duration="500ms">
+            <div class="col-lg-4 col-md-4 col-12 wow fadeInDown" data-wow-duration="500ms">
                 <div class="team-member">
                     <div class="member-photo">
                         {{"<!-- member photo -->" | safeHTML}}
@@ -32,8 +32,8 @@
 
                     {{"<!-- member name & designation -->" | safeHTML}}
                     <div class="member-meta">
-                        <h4>{{ .name }}</h4>
-                        <span>{{ .designation }}</span>
+                        <h3>{{ .name }}</h3>
+                        <h4>{{ .designation }}</h4>
                         <p>{{ .description }}</p>
                     </div>
                 </div>
