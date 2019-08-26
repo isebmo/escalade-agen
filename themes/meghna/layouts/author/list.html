@@ -62,7 +62,7 @@
                             <div class="border-meghna"></div>
                         </div>
                     </div>
-                    {{ range .Data.Pages }}
+                    {{ range .Site.RegularPages }}
                     {{ .Render "article" }}
                     {{ end }}
                 </div>

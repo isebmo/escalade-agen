@@ -431,7 +431,7 @@ a:hover {
 }
 
 .section-bg {
-  background: #292F36;
+  background: #292f36;
 }
 
 .overly {
@@ -514,7 +514,7 @@ a:hover {
   Navigation
 ==================================================================*/
 .navigation {
-  background-color: #1d2024;
+  background-color: #e6cb8a;
   width: 100%;
   margin-bottom: 0;
 }
@@ -524,18 +524,18 @@ a:hover {
 }
 
 .navigation .navigation-menu li a.active {
-  color: #E6CB8A;
+  color: #333;
 }
 
 .navigation .navigation-menu li a {
   font-size: 16px;
-  color: #737f8a;
+  color: #8a6d28;
 }
 
 .navigation .navigation-menu li a:hover,
 .navigation .navigation-menu li a:focus {
   background: transparent;
-  color: #E6CB8A;
+  color: #fff;
 }
 
 .navigation .navbar-toggler {
@@ -548,6 +548,17 @@ a:hover {
   padding: 10px;
   box-shadow: inset 0 1px 0 rgba(255,255,255,.1);
   border-top: 5px solid transparent;
+}
+
+.navbar-brand {
+  color: #fff;
+  font-family: 'Open Sans Condensed', sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
+
+.navbar-brand:hover {
+  color: #8a6d28;
 }
 
 @media (min-width: 768px) {
@@ -603,11 +614,22 @@ a:hover {
 
 .hero-area .block h1 {
   font-family: 'DM Serif Display', serif;
-  font-size: 6em;
+  font-size: 8em;
   color: #fff;
   font-style: italic;
-  width: 66%;
-  margin: 0 auto .25em;
+  margin: 0 auto;
+}
+
+
+.hero-area .block h2 {
+  font-weight: 700;
+  font-size: 2.5rem;
+  color: #E6CB8A;
+  text-transform: uppercase;
+  font-family: 'Open Sans Condensed', sans;
+  letter-spacing: 2px;
+
+  margin-bottom: .5em;
 }
 
 @media (max-width: 480px) {
@@ -750,15 +772,25 @@ a:hover {
   About us 2 section
 ==================================================================*/
 
+.about-2 {
+  background-color: #fff;
+  border-top: 2px solid #E6CB8A;
+  border-bottom: 2px solid #E6CB8A;
+}
 .about-2 .content-block {
-  margin: 2em 4em;
+  margin: 3em 4em 2em;
 }
 
 .about-2 .content-block h2 {
-  color: #e6cb8a;
-  font-size: 2.5em;
-  margin-bottom: .75em;
-  font-style: italic;
+  color: #333;
+  font-size: 3em;
+  margin-bottom: .5em;
+  font-weight: 700;
+  text-align: center;
+}
+
+.about-2 .content-block p {
+  color: #333;
 }
 
 .about-2 .content-block .media {
@@ -1398,22 +1430,28 @@ a:hover {
 ==================================================================*/
 
 
-.single-post h1 {
-  font-size: 3.5rem;
-  color: #fff;
+.single-post {
+  background-color: #fff;
 }
 
-.post-single-content h2,
-.post-single-content h3 {
+.single-post h1 {
+  font-size: 3.5rem;
+  color: #333;
+}
+
+.single-post h2,
+.single-post h3 {
+  color: #E6CB8A;
   font-family: 'Open Sans Condensed', sans;
 }
 
-.post-single-content h2 {
+.single-post .list-inline {
   color: #E6CB8A;
+
 }
 
-.post-single-content h3 {
-  color: #fff;
+.single-post p {
+  color: #333;
 }
 
 .social-share p {

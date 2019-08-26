@@ -8,9 +8,9 @@ teamMember :
     description : Fatigué de devoir parcourir des dizaines de kilomètres en vue de pratiquer sa passion, l’idée de création d’une salle d’escalade sur Agen n’a pas mis longtemps a germé dans l’esprit d’Olivier. Grimpeur expérimenté, cadre fédéral au sein des fédérations sportives délégataires, il sera vous faire partager son amour de sa discipline et vous faire bénéficier de précieux conseils dans votre pratique de ce sport à sensations.
     socialIcon :
       - icon : tf-ion-social-twitter
-        url : "https://twitter.com/the2ne"
+        url : https://twitter.com/the2ne
       - icon : tf-ion-social-linkedin
-        url : "https://www.linkedin.com/in/the2ne"
+        url : https://www.linkedin.com/in/the2ne
       
   - image : images/team/L1010027.jpg
     name : Sébastien Mouret
@@ -18,7 +18,11 @@ teamMember :
     description : Que serait la vie sans rencontres ? Sébastien est le compagnon de cordée idéal en vue de préparer au mieux une telle aventure ! Entrepreneur dans l’âme et désireux d’un lieu convivial et ouvert à tous, il s’investit désormais depuis des mois dans la création de la première salle de blocs du département. Toujours disponible et à votre écoute à l’accueil du Refuge, Sébastien saura vous faire découvrir les secrets des lieux tout comme vous proposer de quoi vous restaurer et vous hydrater.
     socialIcon :
       - icon : tf-ion-social-twitter
-        url : "https://twitter.com/SebMouret"
+        url : https://twitter.com/SebMouret
       - icon : tf-ion-social-linkedin
-        url : "https://www.linkedin.com/in/sébastien-mouret-0477b6113"
+        url : https://www.linkedin.com/in/sébastien-mouret-0477b6113
       
+  - image : images/team/vous.png
+    name : Pourquoi pas vous ?
+    designation : Selon profil
+    description : Vous avez toujours voulu de prendre part à un telle aventure ? Vous pensez pouvoir apporter votre pierre à l'édifice et participer activement à la réussite de ce projet ? N'hésitez pas à nous contacter, nous vous rencontrerons avec plaisir afin d'évaluer ce que nous pourrions faire ensemble et sous quelle forme.

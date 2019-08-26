@@ -20,8 +20,10 @@ En attendant l’ouverture de la salle prévue pour la fin de l’année 2019, n
 Et c’est pour cela que nous faisons appel à vous.
 Nous lançons un Kickstarter pour que le rêve devienne réalité. Nous avons besoin d'un engagement de tous pour montrer aux investisseurs que le projet est viable et que vous êtes nombreux à l'attendre.
 
+![Kickstarter salle d'escalade sur Agen, soutenez le projet !](/images/blog/kickstarter.png)
+
 ### Vous n’avez rien à perdre, tout à grimper !
 
 Envie d’en savoir plus, de vous investir autrement ou tout simplement de nous rencontrer ? N’hésitez pas à nous contacter.
 
-Dans l’hypothèse où la campagne de levée de fonds n’atteindrait pas l’objectif fixé, vous seriez intégralement remboursé.
+**Dans l’hypothèse où la campagne de levée de fonds n’atteindrait pas l’objectif fixé, vous seriez intégralement remboursé.**
