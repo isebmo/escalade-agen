@@ -13,7 +13,7 @@ summaryLength = 10
 # Menu
 [menu]
     [[menu.nav]]
-    name = "À Propos"
+    name = "À propos"
     URL = "about"
     weight = 1
 
@@ -34,11 +34,11 @@ summaryLength = 10
 
 # Site params
 [params]
-    home= "Home"
+    home= "Accueil"
     logo = "images/logo.png"
     gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
     # Meta data
-    description = "1ère salle d'escalade de bloc à Agen et dans le Lot-et-Garonne. Votre site de référence pour la grimpe. Faites le mur : L'escalade pour tous, l'escalade plaisir."
+    description = "1ère salle d'escalade de bloc à Agen et dans le Lot-et-Garonne. Votre site de référence pour la grimpe. Faites le mur : l'escalade pour tous, l'escalade plaisir."
     author = "Escalade Agen"
     twitter = "AgenEscalade"
     # Google Analitycs
@@ -52,6 +52,7 @@ summaryLength = 10
     icon = ""
     heading = "Faites le mur"
     content= "L'escalade pour tous, l'escalade plaisir."
+    subcontent= "Découvrez la 1ère salle d'escalade du Lot-et-Garonne au cœur d'Agen !"
     btn = true
     btnText="Être informé de l'ouverture prochaine"
     btnURL="https://forms.gle/PbCTKbMCc1h6umNi9"

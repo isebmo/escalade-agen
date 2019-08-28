@@ -9,6 +9,7 @@
         {{ end }}
        {{with .Site.Params.banner.heading}} <h1>{{ . }}</h1>{{ end }}
        {{with .Site.Params.banner.content}} <h2>{{ . }}</h2> {{ end }}
+       {{with .Site.Params.banner.subcontent}} <p>{{ . }}</p> {{ end }}
        {{ if .Site.Params.banner.btn}}
         <a data-scroll href="{{ .Site.Params.banner.btnURL}}" class="btn btn-main">{{ .Site.Params.banner.btnText}}</a>
         {{ end }}
