@@ -1104,6 +1104,11 @@ a:hover {
 
 .portfolio-block:hover .caption h4 {
   top: 45%;
+  font-size: 1em;
+}
+
+.portfolio-block:hover .caption p {
+  color: #333;
 }
 
 .portfolio-block:hover .caption {

@@ -1,4 +1,4 @@
-enable : false
+enable : true
 heading : Ils nous font
 headingSpan : confiance
 filterList :
@@ -10,30 +10,38 @@ filterList :
 
 portfolioItem :
   - types : institutionnels
-    image : images/portfolio/cci47.jpg
-    icon : tf-ion-android-search
-    URL : #
+    image : images/partners/cci47.png
+    icon : 
+    URL : http://www.cci47.fr/
     title : CCI47
     description : Chambre de Commerce et d'Industrie du Lot-et-Garonne
     
   - types : institutionnels
-    image : images/portfolio/agglo-agen.jpg
-    icon : tf-ion-android-search
-    URL : #
+    image : images/partners/agglo-agen.png
+    icon : 
+    URL : https://www.agglo-agen.net/
     title : Agglo d'Agen
     description : Communeauté d'agglomération de la Ville d'Agen
     
   - types : federations
-    image : images/portfolio/ffcam.jpg
-    icon : tf-ion-android-search
-    URL : #
+    image : images/partners/ffcam.png
+    icon : 
+    URL : http://clubalpin47.fr/
     title : CAF47
     description : Club Alpin Français du Lot-et-Garonne
     
   - types : federations
-    image : images/portfolio/ffme.jpg
-    icon : tf-ion-android-search
-    URL : #
+    image : images/partners/ffme.png
+    icon : 
+    URL : http://grimpeurs-agenais.org/
     title : FFME Les grimpeurs de l'Agenais
     description : Fédération Française de la montagne et de l'escalade
+    
+  - types : 
+    image : images/partners/vous.png
+    icon : 
+    URL : https://forms.gle/PbCTKbMCc1h6umNi9
+    title : Pourquoi pas vous ?
+    description : Vous souhaitez ajouter le logo de votre entreprise ? Contactez-nous !
+    
     
