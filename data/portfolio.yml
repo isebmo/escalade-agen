@@ -14,28 +14,28 @@ portfolioItem :
     icon : 
     URL : http://www.cci47.fr/
     title : CCI47
-    description : Chambre de Commerce et d'Industrie du Lot-et-Garonne
+    description : Chambre de Commerce et d'Industrie Territoriale de Lot-Et-Garonne
     
   - types : institutionnels
     image : images/partners/agglo-agen.png
     icon : 
     URL : https://www.agglo-agen.net/
-    title : Agglo d'Agen
+    title : Agglomération d'Agen
     description : Communeauté d'agglomération de la Ville d'Agen
     
   - types : federations
     image : images/partners/ffcam.png
     icon : 
     URL : http://clubalpin47.fr/
-    title : CAF47
-    description : Club Alpin Français du Lot-et-Garonne
+    title : Club Alpin Français d'Agen
+    description : Fédération Française des Clubs Alpins et de Montagne
     
   - types : federations
     image : images/partners/ffme.png
     icon : 
     URL : http://grimpeurs-agenais.org/
-    title : FFME Les grimpeurs de l'Agenais
-    description : Fédération Française de la montagne et de l'escalade
+    title : Grimpeurs de l'Agenais
+    description : Fédération Française de la Montagne et de l'Escalade
     
   - types : 
     image : images/partners/vous.png
