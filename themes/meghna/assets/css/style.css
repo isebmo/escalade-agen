@@ -633,6 +633,12 @@ a:hover {
   margin-bottom: .5em;
 }
 
+.hero-area .block p {
+  color: #fff;
+  font-size: 1.3em;
+  margin: 0 auto 2em;
+}
+
 @media (max-width: 480px) {
   .hero-area .block h1 {
     font-size: 3em;
@@ -640,13 +646,9 @@ a:hover {
   .hero-area .block h2 {
     font-size: 1.75em;
   }
-}
-
-.hero-area .block p {
-  color: #fff;
-  font-size: 1em;
-  width: 66%;
-  margin: 0 auto 2em;
+  .hero-area .block p {
+    font-size: 1em;
+  }
 }
 
 .hero-area .block .btn-transparent {
@@ -1102,6 +1104,11 @@ a:hover {
 
 .portfolio-block:hover .caption h4 {
   top: 45%;
+  font-size: 1em;
+}
+
+.portfolio-block:hover .caption p {
+  color: #333;
 }
 
 .portfolio-block:hover .caption {

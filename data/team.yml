@@ -5,7 +5,7 @@ teamMember :
   - image : images/team/olivier.jpg
     name : Olivier Fredon
     designation : Dirigeant
-    description : Fatigué de devoir parcourir des dizaines de kilomètres en vue de pratiquer sa passion, l’idée de création d’une salle d’escalade sur Agen n’a pas mis longtemps à germer dans l’esprit d’Olivier. Grimpeur expérimenté, cadre fédéral au sein des fédérations sportives délégataires, il sera vous faire partager son amour de sa discipline et vous faire bénéficier de précieux conseils dans votre pratique de ce sport à sensations.
+    description : Fatigué de devoir parcourir des dizaines de kilomètres en vue de pratiquer sa passion, l’idée de création d’une salle d’escalade sur Agen n’a pas mis longtemps à germer dans l’esprit d’Olivier. Grimpeur expérimenté, cadre fédéral au sein des fédérations sportives délégataires, il saura vous faire partager son amour de sa discipline et vous faire bénéficier de précieux conseils dans votre pratique de ce sport à sensations.
     socialIcon :
       - icon : tf-ion-social-twitter
         url : https://twitter.com/the2ne
@@ -25,4 +25,4 @@ teamMember :
   - image : images/team/vous.png
     name : Pourquoi pas vous ?
     designation : Selon profil
-    description : Vous avez toujours voulu de prendre part à un telle aventure ? Vous pensez pouvoir apporter votre pierre à l'édifice et participer activement à la réussite de ce projet ? N'hésitez pas à nous contacter, nous vous rencontrerons avec plaisir afin d'évaluer ce que nous pourrions faire ensemble et sous quelle forme.
+    description : Vous avez toujours voulu prendre part à un telle aventure ? Vous pensez pouvoir apporter votre pierre à l'édifice et participer activement à la réussite de ce projet ? N'hésitez pas à nous contacter, nous vous rencontrerons avec plaisir afin d'évaluer ce que nous pourrions faire ensemble et sous quelle forme.

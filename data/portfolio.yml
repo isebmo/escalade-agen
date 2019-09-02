@@ -1,76 +1,47 @@
-enable : false
-heading : Our
-headingSpan : Works
+enable : true
+heading : Ils nous font
+headingSpan : confiance
 filterList :
-  - filterType : photography
-    filterTitle : Photography
+  - filterType : institutionnels
+    filterTitle : Institutionnels
     
-  - filterType : design
-    filterTitle : Design
-    
-  - filterType : development
-    filterTitle : Development
+  - filterType : federations
+    filterTitle : Fédérations
 
 portfolioItem :
-  - types : design
-    image : images/portfolio/portfolio-1.jpg
-    icon : tf-ion-android-search
-    URL : #
-    title : Tag Design
-    description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
+  - types : institutionnels
+    image : images/partners/cci47.png
+    icon : 
+    URL : http://www.cci47.fr/
+    title : CCI47
+    description : Chambre de Commerce et d'Industrie Territoriale de Lot-Et-Garonne
     
-  - types : development
-    image : images/portfolio/portfolio-2.jpg
-    icon : tf-ion-android-search
-    URL : #
-    title : Sound system
-    description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
+  - types : institutionnels
+    image : images/partners/agglo-agen.png
+    icon : 
+    URL : https://www.agglo-agen.net/
+    title : Agglomération d'Agen
+    description : Communeauté d'agglomération de la Ville d'Agen
     
-  - types : design, development
-    image : images/portfolio/portfolio-3.jpg
-    icon : tf-ion-android-search
-    URL : #
-    title : Clock Product
-    description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
+  - types : federations
+    image : images/partners/ffcam.png
+    icon : 
+    URL : http://clubalpin47.fr/
+    title : Club Alpin Français d'Agen
+    description : Fédération Française des Clubs Alpins et de Montagne
     
-  - types : photography, development
-    image : images/portfolio/portfolio-4.jpg
-    icon : tf-ion-android-search
-    URL : #
-    title : Bottol Label
-    description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
+  - types : federations
+    image : images/partners/ffme.png
+    icon : 
+    URL : http://grimpeurs-agenais.org/
+    title : Grimpeurs de l'Agenais
+    description : Fédération Française de la Montagne et de l'Escalade
     
-  - types : design
-    image : images/portfolio/portfolio-5.jpg
-    icon : tf-ion-android-search
-    URL : #
-    title : Shopping Bag
-    description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
+  - types : 
+    image : images/partners/vous.png
+    icon : 
+    URL : https://forms.gle/PbCTKbMCc1h6umNi9
+    title : Pourquoi pas vous ?
+    description : Vous souhaitez ajouter le logo de votre entreprise ? Contactez-nous !
     
-  - types : photography
-    image : images/portfolio/portfolio-6.jpg
-    icon : tf-ion-android-search
-    URL : #
-    title : Tag Design
-    description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
     
-  - types : development
-    image : images/portfolio/portfolio-7.jpg
-    icon : tf-ion-android-search
-    URL : #
-    title : Business Card
-    description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
-    
-  - types : design, development
-    image : images/portfolio/portfolio-8.jpg
-    icon : tf-ion-android-search
-    URL : #
-    title : Stationary Design
-    description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
-    
-  - types : design, photography
-    image : images/portfolio/portfolio-2.jpg
-    icon : tf-ion-android-search
-    URL : #
-    title : Tag Design
-    description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
