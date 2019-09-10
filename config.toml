@@ -1,4 +1,4 @@
-baseURL = "https://www.escalade-agen.fr"
+baseURL = "https://escalade-agen.fr"
 languageCode = "fr-FR"
 DefaultContentLanguage = "fr"
 title = "Faites le mur"
