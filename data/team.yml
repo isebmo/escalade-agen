@@ -9,8 +9,10 @@ teamMember :
     socialIcon :
       - icon : tf-ion-social-twitter
         url : https://twitter.com/the2ne
+        label : "Twitter Olivier Fredon"
       - icon : tf-ion-social-linkedin
         url : https://www.linkedin.com/in/the2ne
+        label : "Facebook Olivier Fredon"
       
   - image : images/team/L1010027.jpg
     name : Sébastien Mouret
@@ -19,8 +21,10 @@ teamMember :
     socialIcon :
       - icon : tf-ion-social-twitter
         url : https://twitter.com/SebMouret
+        label : "Twitter Sébastien Mouret"
       - icon : tf-ion-social-linkedin
         url : https://www.linkedin.com/in/sébastien-mouret-0477b6113
+        label : "Facebook Sébastien Mouret"
       
   - image : images/team/vous.png
     name : Pourquoi pas vous ?

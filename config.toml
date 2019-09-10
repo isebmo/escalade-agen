@@ -41,7 +41,7 @@ summaryLength = 10
 [params]
     home= "Accueil"
     logo = "images/logo.png"
-    gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
+    #gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
     # Meta data
     description = "1ère salle d'escalade de bloc à Agen et dans le Lot-et-Garonne. Votre site de référence pour la grimpe. Faites le mur : l'escalade pour tous, l'escalade plaisir."
     author = "Escalade Agen"
@@ -101,7 +101,9 @@ summaryLength = 10
     [[params.footer.socialIcon]]
         icon = "tf-ion-social-facebook"
         url = "https://fb.me/AgenEscalade"
+        label = "Facebook escalade Agen"
 
     [[params.footer.socialIcon]]
         icon = "tf-ion-social-twitter"
         url = "https://twitter.com/AgenEscalade"
+        label = "Twitter escalade Agen"

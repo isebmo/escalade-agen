@@ -8,7 +8,7 @@
 				<div class="social-icon">
 					<ul class="list-inline">
 						{{ range .Site.Params.footer.socialIcon }}
-						<li class="list-inline-item"><a href="{{ .url }}"><i class="{{ .icon }}"></i></a></li>
+						<li class="list-inline-item"><a href="{{ .url }}" aria-label="{{ .label }}"><i class="{{ .icon }}"></i></a></li>
 						{{ end }}
 					</ul>
 				</div>
@@ -34,8 +34,7 @@
 <script type="text/javascript" src="{{ "plugins/filterzr/jquery.filterizr.min.js" | absURL}}"></script>
 {{"<!-- Magnific popup -->" | safeHTML}}
 <script type="text/javascript" src="{{ "plugins/magnific-popup/dist/jquery.magnific-popup.min.js" | absURL}}"></script>
-{{"<!-- Google Map API -->" | safeHTML}}
-<script type="text/javascript"  src="{{ .Site.Params.gmapAPI | absURL }}"></script>
+
 {{"<!-- Number Counter Script -->" | safeHTML}}
 <script type="text/javascript" src="{{ "plugins/count-to/jquery.countTo.js" | absURL}}"></script>
 {{"<!-- wow.min Script -->" | safeHTML}}
