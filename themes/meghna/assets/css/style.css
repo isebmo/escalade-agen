@@ -1364,6 +1364,7 @@ a:hover {
 
 .single-post {
   background-color: #fff;
+    color: #333;
 }
 
 .single-post h1 {
@@ -1380,10 +1381,6 @@ a:hover {
 .single-post .list-inline {
   color: #E6CB8A;
 
-}
-
-.single-post p {
-  color: #333;
 }
 
 .social-share p {

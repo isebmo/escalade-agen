@@ -96,8 +96,6 @@ summaryLength = 10
 
 # footer
 [params.footer]
-    #copyright = "Themefisher Team"
-    #copyrightURL = "http://www.themefisher.com"
 
     # social Icons
     [[params.footer.socialIcon]]
