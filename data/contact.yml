@@ -1,18 +1,19 @@
 enable : true
-heading : Restons en
-headingSpan : contact
-title : Pour nous joindre
-content : N'hésitez pas à utiliser le formulaire afin de nous faire part de vos questions, remarques ou suggestions.
-enable_maps : true
+heading : Restez informé
+headingSpan : de l'ouverture
+title : Soutenez et suivez le projet
+content : Le meilleurs moyen de contribuer au projet et de faire en sorte qu'il voit le jour est de nous montrer votre soutien. Pour cela, inscrivez vous en laissant votre adresse e-mail. Plus vous serez nombreux, plus le projet aura de poids !
+enable_maps : false
 mapLatitude : 44.203265
 mapLongitude: 0.616041
 contactDetails :
-  - icon : tf-map-pin
-    info : "Agen, locaux à suivre"
-    
-  - icon : tf-ion-ios-telephone-outline
-    info : "Tél : 06 79 19 75 62"
     
   - icon : tf-ion-ios-email-outline
     info : "E-mail : contact@escalade-agen.fr"
+    
+  - icon : tf-ion-ios-telephone-outline
+    info : "Tél : 06 79 19 75 62"
+
+  - icon : tf-map-pin
+    info : "Agen"
     

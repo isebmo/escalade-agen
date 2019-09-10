@@ -1,6 +1,6 @@
 enable : true
-heading : Notre
-headingSpan : équipe
+heading : Qui
+headingSpan : sommes-nous ?
 teamMember :
   - image : images/team/olivier.jpg
     name : Olivier Fredon

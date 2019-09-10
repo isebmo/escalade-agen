@@ -600,12 +600,24 @@ a:hover {
 /*=================================================================
   About us section
 ==================================================================*/
+.about-title {
+  font-weight: 700;
+  font-size: 3em;
+  color: #fff;
+  text-align: center;
+  margin: 0 auto 1em;
+}
+
 .about .block {
   background: #242930;
   padding: 30px;
   border-bottom: 2px solid transparent;
   transition: .5s all;
   margin-bottom: 20px;
+}
+
+.about .content-block {
+  margin-bottom: 4em;
 }
 
 .about .block:hover {
@@ -772,7 +784,7 @@ a:hover {
 }
 
 .contact-us {
-  padding-top: 50px;
+  padding-top: 100px;
 }
 
 @media (max-width: 768px)
@@ -825,6 +837,7 @@ a:hover {
 
 .contact-info h3 {
   color: #fff;
+  font-size: 2em;
 }
 
 .contact-info p {

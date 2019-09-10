@@ -13,24 +13,29 @@ summaryLength = 10
 # Menu
 [menu]
     [[menu.nav]]
-    name = "À propos"
-    URL = "about"
+    name = "Ouverture"
+    URL = "contact-us"
     weight = 1
 
     [[menu.nav]]
-    name = "L'équipe"
-    URL = "our-team"
+    name = "À propos"
+    URL = "about"
     weight = 2
 
     [[menu.nav]]
-    name = "Actualités"
-    URL = "blog"
+    name = "Qui sommes-nous ?"
+    URL = "our-team"
     weight = 3
 
     [[menu.nav]]
-    name = "Contact"
-    URL = "contact-us"
-    weight = 8
+    name = "Nos soutiens"
+    URL = "portfolio"
+    weight = 4
+
+    [[menu.nav]]
+    name = "Blog"
+    URL = "blog"
+    weight = 5
 
 # Site params
 [params]
@@ -53,7 +58,7 @@ summaryLength = 10
     heading = "Faites le mur"
     content= "L'escalade pour tous, l'escalade plaisir."
     subcontent= "Découvrez la 1ère salle d'escalade du Lot-et-Garonne au cœur d'Agen !"
-    btn = true
+    btn = false
     btnText="Être informé de l'ouverture prochaine"
     btnURL="https://forms.gle/PbCTKbMCc1h6umNi9"
 
@@ -62,7 +67,7 @@ summaryLength = 10
     enable = true
     title = "Nous aimons travailler ensemble"
     content = "Nous souhaitons proposer une expérience unique à travers nos produits et nos événements, si vous souhaitez participer à notre aventure, vous vendez des produits dont vous êtes fiers, vous voulez partager un événement dans nos locaux ? Contactez-nous !"
-    btnURL = "https://forms.gle/PbCTKbMCc1h6umNi9"
+    btnURL = "mailto:contact@escalade-agen.fr"
     btnText = "Je participe aussi"
 
 # counter
@@ -102,7 +107,3 @@ summaryLength = 10
     [[params.footer.socialIcon]]
         icon = "tf-ion-social-twitter"
         url = "https://twitter.com/AgenEscalade"
-
-    ##[[params.footer.socialIcon]]
-        ##icon = "tf-ion-social-linkedin"
-        ##url = "#"

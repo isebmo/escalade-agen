@@ -1,15 +1,1 @@
-enable : true
-image : images/about/faites-le-mur.png
-title : La 1ère salle d’escalade en Lot-et-Garonne
-description : Pourquoi une salle d’escalade à Agen pays du rugby ? Car ces deux sports partagent les mêmes valeurs de courage, d’abnégation et de solidarité.
-description2 : Oui, l’escalade est une activité sportive qui s’adresse à un large public. Filles comme garçons, jeunes comme moins jeunes, néophytes comme grimpeurs aguerris ! Amis parents, vous serez agréablement surpris de voir à quel point vos bambins sont doués pour ce sport ludique !
-description3 : En solo ou en groupe, la salle de bloc ne nécessite aucun matériel. Venez avec le sourire, grimpez en toute sécurité, serrez les prises tant que vous le pouvez puis lâchez prise au bar autour d’un bon jus bio.
-description4 : Surtout, n’oubliez pas... face à un mur, les seules limites que vous rencontrerez seront celles que vous vous serez fixées en vue d’atteindre le sommet !
-aboutItem : 
-  - picto : images/about/le-mur.png
-    title : Le mur
-    content : Le mur sera homologué pour accueillir des compétitions, cela veut dire que vous pourrez sérieusement vous entraîner. Un futur athlète pour les JO sommeille peut-être en vous ?
-    
-  - picto : images/about/le-refuge.png
-    title : Le refuge
-    content : Parce que la convivialité est importante et que nous voulons faire de cet endroit un lieu toujours plus agréable. Nous vous proposons de quoi vous rafraîchir et casser la croûte pour vous restaurer.
+enable : false
